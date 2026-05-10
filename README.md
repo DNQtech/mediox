@@ -1,4 +1,4 @@
-# Mediox
+# Mediox v2
 
 官网地址：https://mediox.daniu7.cn/
 
